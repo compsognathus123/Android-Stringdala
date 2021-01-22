@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stringdala</string>
+    <string name="title_activity_weaving">Weaving</string>
+    <string name="servicedesc">StringdalaNFC</string>
+    <string name="aiddescription">StringdalaNFC</string>
+    <string name="modulus">Nodes</string>
+    <string name="times">Factor</string>
+</resources>
