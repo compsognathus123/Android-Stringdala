@@ -1,7 +1,7 @@
 # Android-Stringdala
 Android-app to show Times-Table created Mandalas/Yantras.
 
-Send to GRBL Laser to engrave mandala.
+Send via OTG to GRBL Laser to engrave mandala.
 
 ## Find further inforamation and download .apk [here](http://maunzy.de/Stringdala/).
 
